@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "C://Users//12259//Downloads//laptopandnotepad.jpg";
+import image from "../images/sample-image.jpg"; // Replace "../images/" with the actual path to your image
 
 const imageAltText = "laptop and notepad";
 
@@ -30,13 +30,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Python",
-  "R",
-  "Statistical Analysis",
-  "Data Visualization",
-  "Genomics",
-];
+const skillsList = ["Python", "R", "Statistical Analysis", "Data Visualization", "Genomics"];
 
 /**
  * Use this to give more information about what you are passionate about,
