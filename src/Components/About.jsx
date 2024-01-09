@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "C:\Users\12259\Downloads\laptopandnotepad.jpg";
+import image from "C://Users//12259//Downloads//laptopandnotepad.jpg";
 
 const imageAltText = "laptop and notepad";
 
