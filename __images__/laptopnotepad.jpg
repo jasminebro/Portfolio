@@ -1,0 +1,3 @@
+// Replace "IMAGE_PATH" with the path to your image file on your desktop
+// For example: /Users/YourUsername/Desktop/image.jpg
+const imagePath = "/Users/12259/Downloads/laptopandnotepad.jpg";
